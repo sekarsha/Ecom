@@ -1,0 +1,27 @@
+.one{
+
+  background-color: #a4db96;
+  border: none;
+}
+
+.two{
+background-color: #91d372;
+
+}
+
+.three{
+
+  background-color: #91d372;
+}
+.nav-link:hover{
+ 
+  color:red;
+
+}
+.bg{
+  background-color: #a4db96;
+}
+.w{
+  width: 50px;
+ 
+}
