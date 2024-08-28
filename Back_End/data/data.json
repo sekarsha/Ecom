@@ -1,0 +1,345 @@
+[
+
+  {
+      "id":1,
+      "description":"Daawat Sonamasoori Rice 10 kg",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/491377382/daawat-sonamasoori-rice-10-kg-product-images-o491377382-p491377382-0-202305232208.jpg?im=Resize=(420,420)",
+       "mrp":979,
+       "price":679,
+       "ratings":"24% Off",
+       "stock": 9
+  },
+
+  {
+      "id":2,
+      "description":"Daawat Devaaya Everyday Rice 5 kg ",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/491638884/daawat-devaaya-everyday-rice-5-kg-product-images-o491638884-p491638884-0-202203151831.jpg?im=Resize=(420,420)",
+       "mrp":600,
+       "price":300,
+       "ratings":"25% off",
+       "stock": 9
+  },
+
+  {
+      "id":3,
+      "description":" Rice Villa | Divine | 26 kg | Parboiled Rice | Silky Chap",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/491185246/good-life-idli-rice-1-kg-product-images-o491185246-p491185246-0-202211081533.jpg?im=Resize=(420,420)",
+       "mrp":1600,
+       "price":1800,
+       "ratings":"14% off",
+       "stock": 9
+  },
+
+  {
+      "id":4,
+      "description":" Subhog Parimal Rice 10 kg",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/491180707/subhog-parimal-rice-10-kg-product-images-o491180707-p590034195-0-202203152041.jpg?im=Resize=(420,420)",
+       "mrp":419,
+       "price":612,
+       "ratings":"22% off",
+       "stock": 9
+  },
+
+  {
+      "id":5,
+      "description":"Double Horse Vadi Matta Rice 5 kg ",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/490302422/double-horse-vadi-matta-rice-5-kg-product-images-o490302422-p490302422-0-202205180114.jpg?im=Resize=(420,420)",
+       "mrp":400,
+       "price":500,
+       "ratings":"10% off",
+       "stock": 9
+  },
+
+  {
+      "id":6,
+      "description":" RICE VILLA PURE| GOBINDO BHOG RICE JEERA KASALA 10 KG|",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/rviiqxa0pb/rice-villa-exotic-n-shankar-parboiled-rice-26-kg-product-images-orviiqxa0pb-p596969952-0-202301062141.png?im=Resize=(420,420)",
+       "mrp":1052,
+       "price":600,
+       "ratings":"30% off",
+       "stock": 9
+  },
+
+  {
+      "id":7,
+      "description":"Pick N Cook Wada Kolam Rice 10 kg ",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/rvqcrcc5ju/rice-villa-yuvraj-steam-rice-26-kg-product-images-orvqcrcc5ju-p596969927-0-202301062115.png?im=Resize=(420,420)",
+       "mrp":2500,
+       "price":1500,
+       "ratings":"50% off",
+       "stock": 9
+  },
+
+  {
+      "id":8,
+      "description":"Rice Villa | Ideal | 26 kg | Katarni Raw | Samba Rice ",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/rvs04prqzj/rice-villa-ideal-26-kg-katarni-raw-samba-rice-product-images-orvs04prqzj-p596969929-0-202301241018.png?im=Resize=(420,420)",
+       "mrp":1600,
+       "price":2600,
+       "ratings":"40% off",
+       "stock": 9
+  },
+
+  {
+      "id":9,
+      "description":" Rice Villa YUVRAJ Sona Masuri (Sambha) Steam Rice 26kg",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/rvqcrcc5ju/rice-villa-yuvraj-steam-rice-26-kg-product-images-orvqcrcc5ju-p596969927-0-202301062115.png?im=Resize=(420,420)",
+       "mrp":600,
+       "price":500,
+       "ratings":"10% off",
+       "stock": 9
+  },
+
+  {
+      "id":10,
+      "description":" Rice Villa SPECIAL Sona Masuri (Sonam) Raw Rice 26kg",
+      "name":"Rice",
+      "images":"https://www.jiomart.com/images/product/original/rvx8ditn44/rice-villa-sonam-special-raw-rice-26-kg-product-images-orvx8ditn44-p596969930-0-202301062101.png?im=Resize=(420,420)",
+       "mrp":2600,
+       "price":2000,
+       "ratings":"30% off",
+       "stock": 9
+  },
+
+  {
+      "id":11,
+      "description":"Good Life Raw Peanuts 500 g ",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-0-202306102242.jpg?im=Resize=(420,420)",
+       "mrp":120,
+       "price":60,
+       "ratings":"50% off",
+       "stock": 9
+  },
+
+  {
+      "id":12,
+      "description":"Good Life Toor Dal 2 kg ",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/491417390/good-life-toor-dal-2-kg-product-images-o491417390-p491417390-0-202401111922.jpg?im=Resize=(420,420)",
+       "mrp":130,
+       "price":90,
+       "ratings":"30% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":13,
+      "description":"Bharat Moong Dal Whole 1 Kg ",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/494399672/bharat-moong-dal-whole-1-kg-product-images-o494399672-p607829592-0-202402081556.jpg?im=Resize=(420,420)",
+       "mrp":60,
+       "price":40,
+       "ratings":"10% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":14,
+      "description":" Good Life Soya Wadi / Chunks 200 g",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/491299505/good-life-soya-wadi-chunks-200-g-product-images-o491299505-p491299505-0-202304271715.jpg?im=Resize=(420,420)",
+       "mrp":60,
+       "price":50,
+       "ratings":"10% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":15,
+      "description":"Tata Sampann Unpolished Kala Chana 500 g ",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/491417438/tata-sampann-unpolished-kala-chana-500-g-product-images-o491417438-p590322109-0-202205251716.jpg?im=Resize=(420,420)",
+       "mrp":120,
+       "price":60,
+       "ratings":"50% off",
+       "stock": 9
+  },
+
+  {
+      "id":16,
+      "description":"Nutrapoorna Select Kala Chana 500 g",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/492391485/nutrapoorna-select-kala-chana-500-g-product-images-o492391485-p590411083-0-202204070343.jpg?im=Resize=(420,420)",
+       "mrp":70,
+       "price":60,
+       "ratings":"10% off",
+       "stock": 9
+  },
+
+  {
+      "id":17,
+      "description":" ",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/494399672/bharat-moong-dal-whole-1-kg-product-images-o494399672-p607829592-0-202402081556.jpg?im=Resize=(420,420)",
+       "mrp":80,
+       "price":60,
+       "ratings":"20% off",
+       "stock": 9
+  },
+
+  {
+      "id":18,
+      "description":" Nutrapoorna Select Kabuli Chana 200 g",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/492391486/nutrapoorna-select-kabuli-chana-200-g-product-images-o492391486-p590411084-0-202204070343.jpg?im=Resize=(420,420)",
+       "mrp":160,
+       "price":120,
+       "ratings":"10% off",
+       "stock": 9
+  },
+
+  {
+      "id":19,
+      "description":"Good Life Kabuli Chana 1 kg ",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/491187282/good-life-kabuli-chana-1-kg-product-images-o491187282-p491187282-0-202301171615.jpg?im=Resize=(420,420)",
+       "mrp":80,
+       "price":70,
+       "ratings":"30% off",
+       "stock": 9
+  },
+
+  {
+      "id":20,
+      "description":"Good Life Washed Gota Urad 1 kg ",
+      "name":"Dals",
+      "images":"https://www.jiomart.com/images/product/original/491187267/good-life-washed-gota-urad-1-kg-product-images-o491187267-p491187267-0-202204261914.jpg?im=Resize=(420,420)",
+       "mrp":90,
+       "price":60,
+       "ratings":"30% off",
+       "stock": 9
+  },
+
+  {
+      "id":21,
+      "description":"7Up 250 ml (Can) ",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/490916737/7up-250-ml-can-product-images-o490916737-p490916737-0-202210201751.jpg?im=Resize=(420,420)",
+       "mrp":30,
+       "price":20,
+       "ratings":"10% off",
+       "stock": 9
+  },
+
+  {
+      "id":22,
+      "description":"Mirinda Orange 250 ml ",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/490916736/mirinda-orange-250-ml-can-product-images-o490916736-p490916736-0-202203150927.jpg?im=Resize=(420,420)",
+       "mrp":50,
+       "price":40,
+       "ratings":"100% off",
+       "stock": 9
+  },
+
+  {
+      "id":23,
+      "description":"Charged Berry Bolt By ThumsUp 250 ml ",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/491378932/charged-berry-bolt-by-thumsup-250-ml-product-images-o491378932-p604752735-0-202309232039.jpg?im=Resize=(420,420)",
+       "mrp":60,
+       "price":40,
+       "ratings":"20% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":24,
+      "description":" Cravova Fresh Lemonade 300 ml",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/492367313/cravova-fresh-lemonade-300-ml-product-images-o492367313-p590808147-0-202209221313.jpg?im=Resize=(420,420)",
+       "mrp":80,
+       "price":60,
+       "ratings":"20% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":25,
+      "description":"Sprite 750 ml ",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/491085934/sprite-750-ml-product-images-o491085934-p491085934-0-202203150230.jpg?im=Resize=(420,420)",
+       "mrp":60,
+       "price":50,
+       "ratings":"10% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":26,
+      "description":" Thums Up 2.25 L",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/490005134/thums-up-2-25-l-product-images-o490005134-p490005134-0-202210071752.jpg?im=Resize=(420,420)",
+       "mrp":30,
+       "price":20,
+       "ratings":"12% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":27,
+      "description":"Appy Fizz 600 ml ",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/491376433/appy-fizz-600-ml-product-images-o491376433-p491376433-0-202304061513.jpg?im=Resize=(420,420)",
+       "mrp":68,
+       "price":38,
+       "ratings":"50% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":28,
+      "description":" Bisleri Limonata 600 ml",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/491638204/bisleri-limonata-600-ml-product-images-o491638204-p491638204-0-202203170238.jpg?im=Resize=(420,420)",
+       "mrp":50,
+       "price":30,
+       "ratings":"20% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":29,
+      "description":" Cravova Kiwi Mojito 300 ml",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/492367312/cravova-kiwi-mojito-300-ml-product-images-o492367312-p590808162-0-202204070209.jpg?im=Resize=(420,420)",
+       "mrp":68,
+       "price":50,
+       "ratings":"30% off",
+       "stock": 9
+  },
+
+
+  {
+      "id":30,
+      "description":"Red Bull 250 ml (6 pcs) ",
+      "name":"Soft Drink",
+      "images":"https://www.jiomart.com/images/product/original/491249687/red-bull-250-ml-pack-of-6-product-images-o491249687-p590113231-0-202209231808.jpg?im=Resize=(420,420)",
+       "mrp":30,
+       "price":20,
+       "ratings":"10% off",
+       "stock": 9
+  }
+
+
+
+]
