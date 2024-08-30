@@ -9,9 +9,9 @@ import pic1 from "../photos/rating.png"
 const Prduct = ({product }) => {
     return (
         <div className="col-sm-12 col-md-6 col-lg-3 my-3">
-            <div className="card p-3 rounded">
+            <div className="card p-3 rounded rounded-3  border border-0 " style={{backgroundColor:"#90EE90"}}> 
                 <img
-                    className="card-img-top " width={"300px"} height={"300px"}
+                    className="card-img-top "  width={"200px"} height={"200px"}
                     src={`${product.images}`} 
                 />
                 
@@ -23,7 +23,7 @@ const Prduct = ({product }) => {
                     <h5 className="card-title">
                         <Link  to={"product/"+product._id} className=' nav-link' >{product.description}</Link>
                     </h5>
-                    <div className="ratings  border d-flex  justify-content-center">
+                    <div className="ratings d-flex  justify-content-center">
                         <div className="rating-outer">
                             <div className="rating-inner"  >
                                 <ul className=' d-flex'>
@@ -38,7 +38,7 @@ const Prduct = ({product }) => {
                     </div>
                     <p className=' fw-bold'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, veritatis!</p>
                     <p className="card-text text-primary fw-bold">${product.price}</p>
-                    <Link  to={"product/"+product._id} id="view_btn" className=" "> <button className=' btn btn-primary'>View Details</button></Link>
+                    <Link  to={"product/"+product._id} id="view_btn" className=" "> <button className=' btn btn-success'>View Details</button></Link>
                 </div>
             </div>
         </div>
