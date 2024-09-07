@@ -3,45 +3,70 @@ import Prduct from '../Component/Prduct'
 import dotenv from "dotenv"
 import { useSearchParams } from 'react-router-dom';
 import.meta.env.VITE_API_KEY
+import LoadingIcons from 'react-loading-icons'
+import {SpinningCircles} from 'react-loading-icons'
 
 
 const Home = () => {
-     const [product,setproduct]=useState([]);
-     const [searchparams,setsearch]=useSearchParams()
-     
-     console.log(import.meta.env.VITE_API_KEY);
+    const [product, setproduct] = useState([]);
+    const [searchparams, setsearch] = useSearchParams()
+    const [loadin, setlodin] = useState(true)
 
-    useEffect(()=>{
+    console.log(import.meta.env.VITE_API_KEY);
 
-        fetch(`${import.meta.env.VITE_API_KEY}`+"/product")
+  
+    const loading=()=>{
+        setTimeout(() => {
+              
+            setlodin(false)
 
-        .then(res=>res.json())
-        .then(res=>setproduct(res.products))
+        }, 9000);
+    }
 
-     },[searchparams])
 
-     console.log( product);
+    useEffect(() => {
+           
+         
+            fetch(`${import.meta.env.VITE_API_KEY}` + "/product")
 
-     
-     
+            .then(res => res.json())
+            .then(res => setproduct(res.products))
+           
+            loading()
+           
+
+    
+       
+
+    }, [searchparams])
 
     return (
         <Fragment>
 
-            <h1 id="products_heading "  className=' text-black fw-bold text-center    mt-4'>Latest Products</h1>
+            <h1 id="products_heading " className=' text-black fw-bold text-center    mt-5 font-monospace'>Latest Products</h1>
 
-            <section id="products" className="container mt-5 bg">
-                <div className="row">
-
+              {
+                loadin && <div className=' text-center'> <SpinningCircles stroke="black" /> loading Please Wait</div>
+              }
              
-                    {
-                        product.map((product ,index)=>(<Prduct product={product} key={index} />))
-                    }  
-                 
-                  
+             
+                <section id="products" className="container mt-5 bg">
+                    <div className="row">
 
-                </div>
-            </section>
+                        {
+                            product.map((product, index) => (
+                                <Prduct product={product} key={index}
+                                />))
+                        }
+
+                    </div>
+                </section> 
+            
+
+
+
+
+
         </Fragment>
     )
 }
